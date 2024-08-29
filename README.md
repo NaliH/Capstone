@@ -1,3 +1,3 @@
-# Capstone
+# Video Game Recommendation System Capstone
 
-Video Game Recommendation System
+Recommends similar games on Steam.
